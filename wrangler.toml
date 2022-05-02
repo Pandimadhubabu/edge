@@ -4,6 +4,7 @@ type = "webpack"
 account_id = "75d4d63f3c7c3830efbe428bda49d72a"
 route = "cdn.757live.workers.dev/*"
 compatibility_date = "2022-05-02"
+zone_id = ""
 
 kv_namespaces = [
 	 { binding = "RESOURCE_DOMAINS", id = "1f7ab9c99ce547d3b0d9df27ce28b66e" }
