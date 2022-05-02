@@ -14,7 +14,6 @@ router.all('/sitemap.xml', sitemapHandler);
 router.all('/robots.txt', robotsHandler);
 router.all('*', nextHandler);
 
-
 // eslint-disable-next-line no-restricted-globals
 addEventListener('fetch', (event) => {
   router.handleEvent(event);
