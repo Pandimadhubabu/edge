@@ -1,0 +1,12 @@
+
+name = "cdn-web"
+type = "webpack"
+account_id = "75d4d63f3c7c3830efbe428bda49d72a"
+
+kv_namespaces = [
+	 { binding = "RESOURCE_DOMAINS", id = "85220577858240dbb08ad6404c26e984" }
+]
+
+[site]
+bucket = "./node_modules/@chickaree/web/html"
+entry-point = ""
