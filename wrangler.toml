@@ -2,7 +2,7 @@ name = "chickaree"
 type = "webpack"
 account_id = "75d4d63f3c7c3830efbe428bda49d72a"
 zone_id = " "
-route = "chickaree-web2.757live.workers.dev/*"
+route = " "
 
 kv_namespaces = [
 	 { binding = "RESOURCE_DOMAINS", id = "27367f6df0c3417888186cba568733d6" }
