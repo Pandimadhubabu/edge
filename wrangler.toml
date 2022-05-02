@@ -5,7 +5,7 @@ zone_id = " "
 route = "chickaree-web2.757live.workers.dev/*"
 
 kv_namespaces = [
-	 { binding = "RESOURCE_DOMAINS", preview_id = " ", id = " " }
+	 { binding = "RESOURCE_DOMAINS", id = "27367f6df0c3417888186cba568733d6" }
 ]
 
 [site]
