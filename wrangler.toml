@@ -2,8 +2,6 @@
 name = "chickaree"
 type = "webpack"
 account_id = "75d4d63f3c7c3830efbe428bda49d72a"
-zone_id = " "
-route = " "
 
 kv_namespaces = [
 	 { binding = "RESOURCE_DOMAINS", id = "85220577858240dbb08ad6404c26e984" }
