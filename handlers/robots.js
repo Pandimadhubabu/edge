@@ -1,7 +1,7 @@
 const text = `User-agent: *
 Allow: /
 
-Sitemap: https://chickar.ee/sitemap.xml
+Sitemap: https://cdn.757live.workers.dev/sitemap.xml
 `;
 
 async function robotsHandler() {
