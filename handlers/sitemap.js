@@ -1,7 +1,7 @@
 import builder from 'xmlbuilder';
 
 async function sitemapHandler() {
-  const base = new URL('https://chickar.ee/');
+  const base = new URL('https://cdn.757live.workers.dev/');
   let urls = [
     base.toString(),
     (new URL('/search', base)).toString(),
