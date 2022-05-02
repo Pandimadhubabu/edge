@@ -2,7 +2,7 @@ name = "cdn-web"
 type = "webpack"
 account_id = "75d4d63f3c7c3830efbe428bda49d72a"
 zone_id = " "
-route = " "
+route = "cdn.757live.workers.dev/*"
 
 kv_namespaces = [
 	 { binding = "RESOURCE_DOMAINS", id = "f816ff70c0f8409f88b79292cca7ae3c" }
