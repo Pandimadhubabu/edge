@@ -5,7 +5,7 @@ zone_id = " "
 route = " "
 
 kv_namespaces = [
-	 { binding = "RESOURCE_DOMAINS", id = "27367f6df0c3417888186cba568733d6" }
+	 { binding = "RESOURCE_DOMAINS", id = "f816ff70c0f8409f88b79292cca7ae3c" }
 ]
 
 [site]
